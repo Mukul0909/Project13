@@ -2,7 +2,7 @@
 
 ## Project 13
 ![Image](./Capture.PNG)
-https://vimeo.com/741040202/5bc5748153
+[Video sample](https://vimeo.com/741040202/5bc5748153)
 
 ## Important Things learnt 
 1. Quick delivery with effective analysis of doc
