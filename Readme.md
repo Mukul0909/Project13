@@ -19,6 +19,6 @@ Took around **6 hrs**
 
 ## Live link
 
-[Project Link](https://google.com "Netlify")
+[Project Link](https://vimeo.com/741040202/5bc5748153)
 
 
