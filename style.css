@@ -158,3 +158,72 @@ nav {
 .content {
     text-align: center;
 }
+
+@media only screen and (max-width: 500px){
+
+    .nav-items{
+        display:none;
+    }
+
+    .head-main{
+        display: flex;
+        flex-direction: column;
+        margin-top: -2em;
+        text-align: center;
+        
+    }
+
+    .main-left h1{
+        font-size: 35px;
+        margin-top: 1em;
+        margin-bottom: 0em;
+        width: 200%;
+        margin-left: -3em;
+    }
+
+    .main-left p{
+        width: 200%;
+        margin-left: -7em;
+        font-size: 15px;
+        
+    }
+
+    .logo {
+        margin-left: -4em;
+    }
+
+    .main-right{
+        display: none;
+    }
+
+    .top {
+        flex-direction: column-reverse;
+    }
+
+    .about h1{
+        width: 300%;
+        text-align: center;
+        margin-top: -3em;
+    }
+
+    .card{
+        text-align: center;
+        width: 300%;
+        margin: 1em -0.5em;
+    }
+
+    .top .img img{
+        width: 200%;
+        margin: 0 2em;
+    }
+    
+    .feature-cards {
+        flex-direction: column;
+        margin: 30em 7em;
+        width: 300%;
+    }
+
+    .feature-card{
+        margin: 2em 0;
+    }
+}
